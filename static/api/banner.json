@@ -1,0 +1,47 @@
+{
+	"results": [{
+		"updatedAt": "2018-10-23T04:12:39.281Z",
+		"cover": "66bd299c-c6e9-4585-9f80-9954e31c6960.jpg",
+		"createdAt": "2018-10-23T04:12:39.281Z",
+		"type": "prodRecommend",
+		"typeId": "5bce9faa0b6160006f63577f",
+		"closeTime": {
+			"__type": "Date",
+			"iso": "2018-10-30T16:00:00.000Z"
+		},
+		"objectId": "5bce9fb7ac502e0063c90f3f"
+	}, {
+		"updatedAt": "2018-10-17T07:00:30.392Z",
+		"cover": "e7d52aee-2d21-4ff6-91c0-6625bc8a0592.jpg",
+		"createdAt": "2018-10-16T06:01:21.434Z",
+		"type": "prodRecommend",
+		"typeId": "5bc57e92ee920a006784a30e",
+		"closeTime": {
+			"__type": "Date",
+			"iso": "2018-10-23T16:00:00.000Z"
+		},
+		"objectId": "5bc57eb1ac502e006358fb9d"
+	}, {
+		"updatedAt": "2018-10-15T09:25:52.949Z",
+		"cover": "9b2a013a-df91-45a6-a2d3-3e434d4413a1.jpg",
+		"createdAt": "2018-10-15T09:25:14.478Z",
+		"type": "prodRecommend",
+		"typeId": "5bc44919fb4ffecf3bc45d03",
+		"closeTime": {
+			"__type": "Date",
+			"iso": "2018-10-26T16:00:00.000Z"
+		},
+		"objectId": "5bc45cfa0b6160006fe56fd8"
+	}, {
+		"updatedAt": "2018-10-15T05:46:10.139Z",
+		"cover": "8505616c-1b6e-46fe-81fe-9ed84d28b79f.jpg",
+		"createdAt": "2018-10-15T05:46:10.139Z",
+		"type": "prod",
+		"typeId": "5bc3fddcee920a0067716220",
+		"closeTime": {
+			"__type": "Date",
+			"iso": "2018-10-23T16:00:00.000Z"
+		},
+		"objectId": "5bc429a2fb4ffecf3bc29908"
+	}]
+}
